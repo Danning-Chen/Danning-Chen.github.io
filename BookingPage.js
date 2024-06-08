@@ -1,3 +1,3 @@
 function backToMain(){
-    window.location.href="./MainPage.html"
+    window.location.href="./index.html"
 }
