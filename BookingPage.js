@@ -1,3 +1,3 @@
 function backToMain(){
-    window.location.href="index.html"
+    window.location.href="https://danning-chen.github.io"
 }
